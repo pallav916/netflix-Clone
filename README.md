@@ -14,6 +14,7 @@ A Netflix landing page clone built using **HTML and CSS**.
 
 ## 📸 Preview
 
+<<<<<<< HEAD
 ### Homepage
 ![Homepage](preview/home.png)
 
@@ -27,6 +28,8 @@ A Netflix landing page clone built using **HTML and CSS**.
 ![Footer View](preview/footer.png)
 
 
+=======
+>>>>>>> b898f35a9f737b8cb4ff65b778a68a2550c8dcd0
 
 ## 🔗 Links
 - GitHub Repository: https://github.com/pallav916/netflix-Clone
