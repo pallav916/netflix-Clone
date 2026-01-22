@@ -21,8 +21,8 @@ A Netflix landing page clone built using **HTML and CSS**.
 ### TV Shows Section
 ![TV Section](preview/tv.png)
 
-### Body View
-![Body View](preview/body.png)
+### ipad View
+![ipad View](preview/ipadView.png)
 
 ### Footer View
 ![Footer View](preview/footer.png)
